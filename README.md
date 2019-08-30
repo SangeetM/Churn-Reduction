@@ -1,4 +1,4 @@
-# Churn-Reduction
+# Churn Reduction
 
 **Project Name:** Reducing Customer Churn
 
@@ -37,7 +37,8 @@ pattern. The predictors provided are as follows:
 * total international charge
 * number of customer service calls made
 
-**Target Variable:** move: if the customer has moved (1=yes; 0 = no)
+**Target Variable** 
+* move: if the customer has moved (1=yes; 0 = no)
 
 **Deliverables**
 1) Code written in both R and Python
