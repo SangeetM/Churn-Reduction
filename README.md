@@ -2,6 +2,8 @@
 
 **Project Name:** Reducing Customer Churn
 
+**Timeline:** 06th June 2018 - 05th July 2018
+
 **Project Description**
 
 Churn (loss of customers to competition) is a problem for companies because it is more
