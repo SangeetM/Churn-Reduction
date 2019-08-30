@@ -39,4 +39,4 @@ pattern. The predictors provided are as follows:
 
 **Deliverables**
 1) Code written in both R and Python
-2) Project output with the given datasets in an .ipynb notebook which can be accessed [https://sangeetm.github.io/Churn-Reduction/Churn-Reduction.html here].
+2) Project output with the given datasets in an .ipynb notebook which can be accessed https://sangeetm.github.io/Churn-Reduction/Churn-Reduction.html
